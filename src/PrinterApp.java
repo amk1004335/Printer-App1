@@ -1,8 +1,8 @@
 public class PrinterApp {
     public static void main(String[] args) {
          String creator = "Hom Adhikari"; 
-        int number1 = 7; 
-        int number2 = 5; 
+        int number1 = 5; 
+        int number2 = 2; 
         int multiplication;
         int addition;
         int subtraction;
