@@ -2,7 +2,7 @@ public class PrinterApp {
     public static void main(String[] args) {
          String creator = "Hom Adhikari"; 
         int number1 = 7; 
-        int number2 = 8; 
+        int number2 = 5; 
         int multiplication;
         int addition;
         int subtraction;
